@@ -1,4 +1,3 @@
-Tentative de refaire theBestMotherFucking Website :)
-for TheHackingProject
+Essais BestmotherFuckingWebsite
 
-Rawgit: https://rawgit.com/Gwekkeo/tBESTmfw_thpG/master/index.html
+https://rawgit.com/lili75/BestMotherFuckingWebsite/master/indexbestmf.html

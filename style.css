@@ -1,0 +1,183 @@
+/* font-family
+Arial Black / Comic Sans MS / Courier New / Georgia / Impact 
+/ Times New Roman / Trebuchet MS / Verdana.
+	margin  = marge EXTERIEUR
+	padding = INTERIEUR
+*/
+body{
+	width: 43.3%;
+	min-width: 800px;
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3.7%;
+	margin-bottom: 3.5%;
+
+	line-height: 22px;
+
+}
+
+@font-face{
+	font-family: openSansReg;
+	src: url('polices/OpenSans-Regular.ttf');
+}
+h1{
+	font-size: 32px;
+	font-family: openSansReg;
+	text-align: justify;
+
+	color: #454545;
+
+	padding-top: 12px;
+	padding-bottom: 1px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+h2{
+	text-align: justify;
+	font-family: openSansReg;
+	font-size: 24px;
+
+	line-height: 33.6px;
+	color: #454545;
+
+	margin-top: 19px;
+	margin-bottom: 20px;
+	padding: 0 0 0 0;
+}
+
+p{
+	font-size: 16px;
+	font-family: openSansReg;
+	text-align: justify;
+
+	color: #454545;
+	line-height: 22.4px;
+
+	margin: 17px 0 10px 0;
+	padding: 0 0 0 0;
+}
+#two_para{
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+ul{
+/*MARGIN = exterieur du carre */
+	margin: 16px 0 0 0;
+	padding-left: 39.5px;
+}
+li{
+	font-family: openSansReg;
+	color: #454545;
+/*ENTRE les lignes de li */
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	
+	line-height: 22.4px;
+	font-size: 16px;
+	text-align: justify;
+}
+img#logo{
+	height: 15px;
+}
+
+#vert_color{
+	color: #16a085;
+}
+
+#wrong_color{
+	color: #c0392b;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#titre_dos{
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+
+#small_size{
+	/*font-size: xx-small;*/
+	font-size: 6.4px;
+}
+#blue_color{
+	color: blue;
+}
+#violet_color{
+	color: purple;
+}
+#courrier_new{
+	margin: 10px 0 0 0;
+	padding: 0 0 0 0;
+	font-family: Courrier New;
+	font-size: 13px;
+}
+#syntax_color_decimal{
+	font-weight: bold;
+	font-family: Courrier New;
+}
+#carre_colore{
+	background-color: #454545;
+}
+
+#img_chat{
+	height: 213px;
+	float: left;
+	margin: 0 15px 12px 0;
+}
+
+#txt_dessous_cat_img{
+	clear: both;
+	font-size: 11px;
+
+	margin: 0 0 27px 0;
+	padding: 0 0 0 0;
+}
+
+@font-face{
+	font-family: openSansReg;
+	src: url('polices/OpenSans-Regular.ttf');
+}
+blockquote{
+	margin-top: 45px;
+	font-family: openSansReg;
+
+	padding: 0 0 0 0;
+	margin: 45px 0 0 0;
+}
+#quote_img{
+	height: 15px;
+	float: left;
+	margin-right: 12px;
+
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+
+
+#cit_{
+	padding: 5px 0 0 0;
+	margin: 0 0 0 38px;
+}
+#cit__{
+	margin: 8px 0 0 45px;
+	padding: 0 0 0 0;
+	font-size: 10px;
+}
+
+#cit_needed{
+	font-size: 10px;
+	margin-left: 5px;
+}
+
+#logo_konimi{
+	height: 40px;
+}
+
+#logo_konimi_a{
+	display: block;
+	text-align: center;
+}
+
+
